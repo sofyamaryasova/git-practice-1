@@ -1,2 +1,3 @@
 Автор: sofyamaryasova
 О себе: изучаю основы Git и GitHub.
+Изменено в вебе
