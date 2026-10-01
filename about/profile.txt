@@ -1,1 +1,4 @@
-НЕЖЕЛАТЕЛЬНОЕ ИЗМЕНЕНИЕ В ВЕТКЕ DRAFT-IDEAS
+Автор: sofyamaryasova
+О себе: изучаю основы Git и GitHub.
+Изменено в вебе
+Email: sofyamaryasova@users.noreply.github.com
